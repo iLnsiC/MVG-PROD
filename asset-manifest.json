@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/MVG-PROD/static/css/main.9147cf60.css",
-    "main.js": "/MVG-PROD/static/js/main.d47a4822.js",
-    "static/js/787.2c0e5b38.chunk.js": "/MVG-PROD/static/js/787.2c0e5b38.chunk.js",
-    "static/media/home_banner.jpg": "/MVG-PROD/static/media/home_banner.e160219c56381f5d72be.jpg",
-    "static/media/book_delete.png": "/MVG-PROD/static/media/book_delete.f0aec92a2dde895664ec.png",
-    "static/media/book_add.jpg": "/MVG-PROD/static/media/book_add.39d19f3dbedefa81ee63.jpg",
-    "static/media/Logo.svg": "/MVG-PROD/static/media/Logo.16725d5f400454fc59f2d21c740b0a06.svg",
-    "static/media/map_footer.png": "/MVG-PROD/static/media/map_footer.a4eb4130dd9828775917.png",
-    "index.html": "/MVG-PROD/index.html",
-    "main.9147cf60.css.map": "/MVG-PROD/static/css/main.9147cf60.css.map",
-    "main.d47a4822.js.map": "/MVG-PROD/static/js/main.d47a4822.js.map",
-    "787.2c0e5b38.chunk.js.map": "/MVG-PROD/static/js/787.2c0e5b38.chunk.js.map"
+    "main.css": "/mvg/static/css/main.9147cf60.css",
+    "main.js": "/mvg/static/js/main.045d11af.js",
+    "static/js/787.2c0e5b38.chunk.js": "/mvg/static/js/787.2c0e5b38.chunk.js",
+    "static/media/home_banner.jpg": "/mvg/static/media/home_banner.e160219c56381f5d72be.jpg",
+    "static/media/book_delete.png": "/mvg/static/media/book_delete.f0aec92a2dde895664ec.png",
+    "static/media/book_add.jpg": "/mvg/static/media/book_add.39d19f3dbedefa81ee63.jpg",
+    "static/media/Logo.svg": "/mvg/static/media/Logo.16725d5f400454fc59f2d21c740b0a06.svg",
+    "static/media/map_footer.png": "/mvg/static/media/map_footer.a4eb4130dd9828775917.png",
+    "index.html": "/mvg/index.html",
+    "main.9147cf60.css.map": "/mvg/static/css/main.9147cf60.css.map",
+    "main.045d11af.js.map": "/mvg/static/js/main.045d11af.js.map",
+    "787.2c0e5b38.chunk.js.map": "/mvg/static/js/787.2c0e5b38.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9147cf60.css",
-    "static/js/main.d47a4822.js"
+    "static/js/main.045d11af.js"
   ]
 }
