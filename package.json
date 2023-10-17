@@ -1,5 +1,7 @@
 {
   "name": "mon-vieux-grimoire-frontend",
+  "homepage": "https://ilnsic.github.io/MVG-PROD/",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
