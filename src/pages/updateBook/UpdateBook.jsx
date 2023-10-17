@@ -46,7 +46,7 @@ function UpdateBook() {
             <h1>Merci!</h1>
             <p>votre livre a bien été mis à jour</p>
             <img src={bookAdd} alt="Livre mis à jour" />
-            <Link to="/" className="button">Retour à l&apos;accueil</Link>
+            <Link to="/mvg" className="button">Retour à l&apos;accueil</Link>
           </div>
         )}
       </div>

@@ -99,7 +99,7 @@ function Book() {
       <h1>{book.title}</h1>
       <p>a bien été supprimé</p>
       <img src={BookDeleteImage} alt={`Le livre ${book.title} a bien été supprimé`} />
-      <Link to="/">
+      <Link to="/mvg">
         <button type="button">{'Retour à l\'accueil'}</button>
       </Link>
     </div>

@@ -7,6 +7,7 @@ export const API_ROUTES = {
 };
 
 export const APP_ROUTES = {
+  HOME: '/mvg',
   SIGN_UP: "/Inscription",
   SIGN_IN: "/Connexion",
   ADD_BOOK: "/Ajouter",
